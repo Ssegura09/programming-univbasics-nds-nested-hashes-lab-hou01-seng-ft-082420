@@ -18,7 +18,8 @@ end
 
 def literal_aoh
   constant_peeps = [
-    {:name => "Don Gately", "Joelle van Dyne", "Pat Monteseian"
+    {:name => "Don Gately", "Joelle van Dyne", "Pat Monteseian", "Kate Gompert", "Bruce Green"},
+    {:occupation => "Live-in Staff", "Radio Personality", "Staff", "None", "Fan of Mildred"}
     ]
   
   
